@@ -420,7 +420,7 @@ Receive rapid pre-submission feedback.
 
 ---
 
-# 👥 Team Krishnap
+# 👥 Team gajadhar
 
 Built with ❤️ for **Raptors Hackathon**
 
