@@ -1,0 +1,53 @@
+Screen {
+    background: #050505;
+}
+
+#explorer {
+    width: 30%;
+    border: solid cyan;
+}
+
+#center {
+    width: 35%;
+}
+
+#right {
+    width: 35%;
+}
+
+#score {
+    height: 50%;
+    border: round #39ff14;
+    color: #39ff14;
+}
+
+#dna {
+    height: 50%;
+    border: round #b026ff;
+    color: #b026ff;
+}
+
+#threats {
+    height: 50%;
+    border: round #ff4d4d;
+    color: #ff4d4d;
+}
+
+#citations {
+    height: 50%;
+    border: round #ffd600;
+    color: #ffd600;
+}
+
+#banner {
+    color: cyan;
+    text-align: center;
+    height: 10;
+    margin-bottom: 1;
+}
+#status {
+    dock: bottom;
+    height: 3;
+    color: cyan;
+    border-top: solid green;
+}

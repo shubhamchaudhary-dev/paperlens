@@ -1,0 +1,4 @@
+textual==0.61.1
+rich
+pymupdf
+requests

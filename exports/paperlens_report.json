@@ -1,0 +1,22 @@
+{
+    "score": 85,
+    "pages": 15,
+    "word_count": 10656,
+    "citation_count": 0,
+    "citation_health": {
+        "total": 45,
+        "verified": "Pending",
+        "invalid": "Pending"
+    },
+    "fillers": [],
+    "review": {
+        "strengths": [
+            "Strong overall research integrity."
+        ],
+        "weaknesses": [
+            "Limited citation support."
+        ],
+        "warnings": [],
+        "recommendation": "ACCEPT"
+    }
+}
