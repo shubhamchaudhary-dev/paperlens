@@ -54,18 +54,17 @@ Simply upload a PDF research paper and PaperLens automatically:
 
 ---
 
-# 🎥 Demo Video
-
-# 🎥 Demo Video
+## 🎥 Demo Video
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xvhJd7IwE1E">
-    <img src="https://img.youtube.com/vi/xvhJd7IwE1E/maxresdefault.jpg" width="900" alt="PaperLens Demo Video">
+   <img width="900"  alt="PaperLens Demo" src="https://github.com/user-attachments/assets/b29af1c2-3794-47d6-84d5-5e2e03190f66" />
+
   </a>
 </p>
 
 <p align="center">
-  <b>▶️ Click the preview above to watch the full PaperLens demo</b>
+  <b>▶️ Click the image above to watch the full demo</b>
 </p>
 
 
