@@ -1,111 +1,179 @@
-# PaperLens
+# 🚀 PaperLens
+
 ### Research Integrity Command Center
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Textual](https://img.shields.io/badge/Textual-TUI-green)
+![PyMuPDF](https://img.shields.io/badge/PDF-Analysis-orange)
+![Hackathon](https://img.shields.io/badge/Hackathon-Raptors-red)
+![Status](https://img.shields.io/badge/Status-Working-success)
+
 > Detect weak research. Validate citations. Generate reviewer-ready reports.
->
-> PaperLens is a cyberpunk-inspired research paper analysis platform that helps journals, reviewers, professors, and researchers quickly evaluate the integrity and quality of academic manuscripts.
 
 ---
 
-## Inspiration
+## 🌟 Overview
 
-The rise of AI-generated academic content has introduced new challenges:
+PaperLens is a cyberpunk-inspired research integrity platform that helps reviewers, journals, universities, and researchers rapidly evaluate academic manuscripts.
 
-- Generic AI-written abstracts
-- Weak or missing citations
-- Repetitive filler content
-- Low-quality research submissions
-- Reviewer overload
-
-Academic reviewers spend hours manually checking papers before providing feedback.
-
-PaperLens was built to accelerate this process by providing an automated research integrity assessment pipeline.
+Instead of spending hours manually validating citations, checking paper quality, and identifying weak submissions, PaperLens performs an automated integrity assessment in seconds.
 
 ---
 
-## Problem Statement
+## 🎯 Problem
 
-Modern journals and conferences receive thousands of submissions every year.
+The rise of AI-generated academic content has created serious challenges:
 
-Reviewers must manually inspect:
+* Low-quality submissions
+* Generic AI-written sections
+* Weak or missing citations
+* Reviewer overload
+* Time-consuming manual validation
 
-- Citation quality
-- Research depth
-- Content authenticity
-- Writing quality
-- Structural completeness
-
-This process is:
-
-- Time consuming
-- Expensive
-- Error prone
-- Difficult to scale
-
-PaperLens acts as a first-pass integrity scanner.
+Reviewers spend hours verifying research quality before they can focus on actual scientific contributions.
 
 ---
 
-## Solution
+## 💡 Solution
 
-Upload a research paper PDF.
+PaperLens acts as a first-pass research integrity scanner.
 
-PaperLens automatically:
+Simply upload a PDF research paper and PaperLens automatically:
 
-- Extracts paper content
-- Computes an Integrity Score
-- Analyzes citations
-- Detects filler-heavy content
-- Generates reviewer recommendations
-- Exports structured reports
+✅ Extracts content
 
-The result is a fast and explainable research quality assessment.
+✅ Computes Integrity Score
 
----
+✅ Detects filler-heavy sections
 
-# Key Features
+✅ Analyzes citation quality
 
-## PDF Analysis Engine
+✅ Generates reviewer recommendations
 
-Automatically parses PDF research papers and extracts:
-
-- Full text
-- Page count
-- Metadata
-- Structural content
+✅ Exports structured reports
 
 ---
 
-## Integrity Score
+# 🎥 Demo Video
 
-Generates a research integrity score from 0–100.
+[![Watch Demo](https://img.youtube.com/vi/xvhJd7IwE1E/maxresdefault.jpg)](https://youtu.be/xvhJd7IwE1E)
 
-Scoring factors include:
+👉 Click the thumbnail above to watch the complete walkthrough.
 
-- Citation density
-- Paper length
-- Content quality
-- Filler language detection
-- Structural completeness
+---
 
-Example:
+# 📸 Screenshots
+
+## Dashboard Home
+
+![Dashboard Home](assets/screenshots/dashboard-home.png)
+
+Cyberpunk-inspired command center for research integrity analysis.
+
+---
+
+## Paper Analysis
+
+![Paper Analysis](assets/screenshots/paper-analysis.png)
+
+Real-time integrity scoring and automated manuscript evaluation.
+
+---
+
+## Research DNA Panel
+
+![Research DNA](assets/screenshots/research-dna-panel.png)
+
+Quick overview of paper statistics, metadata, and recommendations.
+
+---
+
+## Citation Health Report
+
+![Citation Health](assets/screenshots/citation-health-report.png)
+
+Citation intelligence engine with DOI extraction and validation.
+
+---
+
+## Exported HTML Report
+
+![Export Report](assets/screenshots/exported-html-report.png)
+
+Generate structured reviewer-ready reports in HTML format.
+
+---
+
+# ⚙️ How It Works
 
 ```text
-Integrity Score: 91
+Upload PDF
+     │
+     ▼
+PDF Parsing
+     │
+     ▼
+Integrity Analysis
+     │
+     ▼
+Citation Intelligence
+     │
+     ▼
+Threat Detection
+     │
+     ▼
+Reviewer Recommendation
+     │
+     ▼
+Export Report
 ```
 
 ---
 
-## Citation Intelligence
+# ✨ Core Features
 
-PaperLens analyzes references and citations.
+## 📄 PDF Analysis Engine
 
-Metrics:
+Extracts:
 
-- Citation count
-- DOI detection
-- Reference validation
-- Citation health score
+* Full paper text
+* Metadata
+* Structure information
+* Page count
+* Research statistics
+
+---
+
+## 🧠 Integrity Score
+
+Produces a research quality score from 0–100.
+
+Factors:
+
+* Citation density
+* Structural completeness
+* Content quality
+* Filler detection
+* Academic consistency
+
+Example:
+
+```text
+Integrity Score: 85
+```
+
+---
+
+## 🔍 Citation Intelligence
+
+Analyzes references and citations.
+
+Features:
+
+* DOI Extraction
+* Citation Counting
+* Reference Validation
+* Citation Health Assessment
 
 Example:
 
@@ -117,48 +185,41 @@ Invalid: 3
 
 ---
 
-## Threat Analysis
-
-Identifies potentially problematic content.
+## 🚨 Threat Analysis
 
 Detects:
 
-- Generic filler language
-- Low-information sections
-- Weak academic phrasing
-- Research quality risks
+* Filler-heavy content
+* Weak academic writing
+* Generic AI-style language
+* Research quality risks
 
 Example:
 
 ```text
-Threat Analysis
-
-• No filler detected
-• Strong citation coverage
+No filler detected
+Strong citation coverage
 ```
 
 ---
 
-## Research DNA
+## 🧬 Research DNA
 
-Provides a quick summary of the paper.
+Provides:
 
-Displays:
+* Word count
+* Page count
+* Citation metrics
+* Research statistics
+* Reviewer recommendation
 
-- Page count
-- Word count
-- Citation count
-- Reviewer recommendation
-
-This gives reviewers a fast overview before reading the manuscript.
+Perfect for rapid manuscript triage.
 
 ---
 
-## Reviewer Recommendation Engine
+## 👨‍⚖️ Reviewer Recommendation Engine
 
-Automatically generates reviewer-style feedback.
-
-Possible outputs:
+Automatically suggests:
 
 ```text
 Accept
@@ -167,110 +228,82 @@ Major Revision
 Reject
 ```
 
-Includes:
+With:
 
-- Strengths
-- Weaknesses
-- Warnings
-- Recommendations
+* Strengths
+* Weaknesses
+* Warnings
+* Reviewer insights
 
 ---
 
-## Export System
+## 📤 Export System
 
-Generate reports in multiple formats.
+Generate reports in:
 
-Supported:
-
-- JSON
-- Markdown
-- HTML
+* HTML
+* JSON
+* Markdown
 
 Useful for:
 
-- Review workflows
-- Editorial records
-- Submission tracking
+* Editorial workflows
+* Research audits
+* Submission tracking
+* Review records
 
 ---
 
-# Demo Workflow
-
-```text
-Select PDF
-      │
-      ▼
-Parse Document
-      │
-      ▼
-Integrity Analysis
-      │
-      ▼
-Citation Analysis
-      │
-      ▼
-Reviewer Recommendation
-      │
-      ▼
-Export Report
-```
-
----
-
-# Architecture
+# 🏗️ Architecture
 
 ```text
 PaperLens
 │
 ├── PDF Parser
-│
 ├── Integrity Engine
-│
 ├── Citation Analyzer
-│
 ├── Threat Detector
-│
 ├── Reviewer Engine
-│
 ├── Export Engine
-│
 └── Cyber Dashboard
 ```
 
 ---
 
-# Tech Stack
+# 🛠️ Tech Stack
 
 ### Backend
 
-- Python 3.13
+* Python 3.13
 
-### TUI Framework
+### Interface
 
-- Textual
+* Textual (TUI)
 
 ### PDF Processing
 
-- PyMuPDF
+* PyMuPDF
+
+### Reporting
+
+* HTML
+* JSON
+* Markdown
 
 ### Data Processing
 
-- Python Standard Library
-
-### Report Generation
-
-- JSON
-- Markdown
-- HTML
+* Python Standard Library
 
 ---
 
-# Project Structure
+# 📂 Project Structure
 
 ```text
 paperlens
 │
 ├── assets
+│   └── screenshots
+│
 ├── data
 │   └── papers
 │
@@ -299,12 +332,12 @@ paperlens
 
 ---
 
-# Installation
+# 🚀 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/paperlens.git
+git clone https://github.com/your-username/paperlens.git
 
 cd paperlens
 ```
@@ -323,37 +356,31 @@ python main.py
 
 ---
 
-# Example Output
+# 📊 Example Output
 
 ```text
-Integrity Score: 91
+Integrity Score: 85
 
-Citation Count: 48
+Threat Analysis:
+No filler detected
+
+DOIs Found: 45
 
 Recommendation:
-Accept with Minor Revisions
-
-Warnings:
-- Limited discussion section
-
-Strengths:
-- Strong citation coverage
-- Clear methodology
+ACCEPT
 ```
 
 ---
 
-# Impact
-
-PaperLens can help:
+# 🌍 Real-World Impact
 
 ### Journals
 
-Reduce reviewer workload.
+Reduce reviewer workload through automated integrity screening.
 
 ### Conferences
 
-Filter weak submissions before review.
+Filter weak submissions before peer review.
 
 ### Universities
 
@@ -365,51 +392,43 @@ Receive rapid pre-submission feedback.
 
 ---
 
-# Future Scope
+# 🏆 Why PaperLens Stands Out
 
-- AI-generated abstract detection
-- Novelty scoring
-- Citation graph analysis
-- Reviewer PDF generation
-- Conference quality assessment
-- VS Code extension
-- Browser extension
-- Multi-paper comparison
+✅ Automated Research Integrity Assessment
 
----
+✅ Reviewer-Friendly Workflow
 
-# Hackathon Highlights
+✅ Explainable Scoring System
 
-### Innovation
+✅ Cyberpunk Interactive Dashboard
 
-Automated research integrity assessment.
+✅ Lightweight Python Architecture
 
-### Real-World Relevance
+✅ Fast Report Generation
 
-Addresses growing challenges in academic publishing.
-
-### Scalability
-
-Can be integrated into journal submission systems.
-
-### Explainability
-
-Produces transparent, reviewer-friendly reports.
-
-### Practical Impact
-
-Reduces manual effort while improving review quality.
+✅ Real-World Academic Publishing Use Case
 
 ---
 
-# Team Vision
+# 🔮 Future Roadmap
 
-We believe academic publishing deserves better tooling.
-
-PaperLens aims to become a research integrity layer that sits between submission and review, helping reviewers focus on scientific contributions rather than repetitive validation tasks.
+* AI-generated content detection
+* Novelty scoring
+* Citation graph visualization
+* Reviewer PDF reports
+* Multi-paper comparison
+* Cloud dashboard
+* Browser extension
+* VS Code extension
 
 ---
 
-## Built for Hackathons, Research Communities, and the Future of Academic Publishing.
+# 👥 Team Krishnap
 
-**PaperLens — Research Integrity Command Center**
+Built with ❤️ for **Raptors Hackathon**
+
+PaperLens reimagines the future of academic publishing by helping reviewers focus on scientific contributions rather than repetitive validation tasks.
+
+---
+
+## ⭐ If you found this project interesting, give it a star and support the future of research integrity.
