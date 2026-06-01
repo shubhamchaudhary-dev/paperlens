@@ -56,7 +56,10 @@ Simply upload a PDF research paper and PaperLens automatically:
 
 # 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/xvhJd7IwE1E/maxresdefault.jpg)](https://youtu.be/xvhJd7IwE1E)
+<a href="https://youtu.be/xvhJd7IwE1E">
+  <img src="assets/screenshots/demo-video-cover.png" width="900">
+</a>
+
 
 👉 Click the thumbnail above to watch the complete walkthrough.
 
@@ -66,7 +69,7 @@ Simply upload a PDF research paper and PaperLens automatically:
 
 ## Dashboard Home
 
-![Dashboard Home](assets/screenshots/dashboard-home.png)
+<img width="1919" height="1079" alt="Screenshot 2026-06-02 002822" src="https://github.com/user-attachments/assets/94206a7c-4100-44cb-8ea1-4e7ee57fd1a3" />
 
 Cyberpunk-inspired command center for research integrity analysis.
 
@@ -74,7 +77,8 @@ Cyberpunk-inspired command center for research integrity analysis.
 
 ## Paper Analysis
 
-![Paper Analysis](assets/screenshots/paper-analysis.png)
+<img width="1919" height="1079" alt="Screenshot 2026-06-02 002835" src="https://github.com/user-attachments/assets/f8fd8f50-334e-4bf5-b3ce-0e2c25e6692f" />
+
 
 Real-time integrity scoring and automated manuscript evaluation.
 
@@ -82,25 +86,10 @@ Real-time integrity scoring and automated manuscript evaluation.
 
 ## Research DNA Panel
 
-![Research DNA](assets/screenshots/research-dna-panel.png)
+<img width="1919" height="1018" alt="Screenshot 2026-06-02 002915" src="https://github.com/user-attachments/assets/6ba94415-34eb-41f9-803a-584a38f43341" />
+
 
 Quick overview of paper statistics, metadata, and recommendations.
-
----
-
-## Citation Health Report
-
-![Citation Health](assets/screenshots/citation-health-report.png)
-
-Citation intelligence engine with DOI extraction and validation.
-
----
-
-## Exported HTML Report
-
-![Export Report](assets/screenshots/exported-html-report.png)
-
-Generate structured reviewer-ready reports in HTML format.
 
 ---
 
