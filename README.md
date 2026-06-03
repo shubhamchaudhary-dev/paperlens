@@ -12,6 +12,25 @@
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xvhJd7IwE1E">
+   <img width="900"  alt="PaperLens Demo" src="https://github.com/user-attachments/assets/b29af1c2-3794-47d6-84d5-5e2e03190f66" />
+
+  </a>
+</p>
+
+<p align="center">
+  <b>▶️ Click the image above to watch the full demo</b>
+</p>
+
+
+
+👉 Click the thumbnail above to watch the complete walkthrough.
+
+---
+
 ## 🌟 Overview
 
 PaperLens is a cyberpunk-inspired research integrity platform that helps reviewers, journals, universities, and researchers rapidly evaluate academic manuscripts.
@@ -52,24 +71,6 @@ Simply upload a PDF research paper and PaperLens automatically:
 
 ✅ Exports structured reports
 
----
-
-## 🎥 Demo Video
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xvhJd7IwE1E">
-   <img width="900"  alt="PaperLens Demo" src="https://github.com/user-attachments/assets/b29af1c2-3794-47d6-84d5-5e2e03190f66" />
-
-  </a>
-</p>
-
-<p align="center">
-  <b>▶️ Click the image above to watch the full demo</b>
-</p>
-
-
-
-👉 Click the thumbnail above to watch the complete walkthrough.
 
 ---
 
